@@ -1,0 +1,7 @@
+C:\Users\Lenovo Ideapad S340\Desktop\Management_System\obj\Debug\net7.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo Ideapad S340\Desktop\Management_System\obj\Debug\net7.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Ideapad S340\Desktop\Management_System\obj\Debug\net7.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Lenovo Ideapad S340\Desktop\Management_System\obj\Debug\net7.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad S340\Desktop\Management_System\obj\Debug\net7.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad S340\Desktop\Management_System\obj\Debug\net7.0\ManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo Ideapad S340\Desktop\Management_System\obj\Debug\net7.0\ManagementSystem.MvcApplicationPartsAssemblyInfo.cache
